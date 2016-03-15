@@ -1,7 +1,7 @@
-Mobile-applications
-===================
+BuildmLearn (Mobile-applications)(Branch for solving Bugs)
+===========================================================
 
-This repository contains source code for educational mobile applications.
+This repository contains source code for educational mobile applications from BuildmLearn and would be dedicated to solving bugs and issues with the BuildmLearn applications.
 
 # License for use and distribution
 All the code in this repository (unless specified otherwise) is governed by the BSD (3-Clause) License quoted below.
